@@ -33,12 +33,11 @@ To run the Rental Property Finder app locally, follow these steps:
 
 3. Install dependencies:
    ```bash
-   streamlit run app.py
+   pip install -r requirements.txt
 
 4. Fire up the Streamlit server:
    ```bash
-streamlit run app.py
-
+    streamlit run app.py
 
 ## How to Use
 
